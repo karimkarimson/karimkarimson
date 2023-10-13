@@ -1,10 +1,12 @@
 <h1 align='center'>
-Hello! I'm Karim
+Hi! :raising_hand: I'm Karim
 </h1>
 
 <p align='center'>
 I'm an interested and invested **DevOps** student @<a href="https://github.com/techstartergmbh/"Techstarter GmbH"/">Techstarter GmbH</a>
 </p>
+
+---
 
 <p align='center'>
 <a href="mailto:karimkarim@duck.com">
@@ -15,17 +17,23 @@ I'm an interested and invested **DevOps** student @<a href="https://github.com/t
 
 </p>
 
-## Current learning
+---
+## Current Stack 
 - Certifications:
     - AWS Solutions Architect SAA-03
     - LPIC 1
     - PSM 1 - Professional Scrum Master
     - AWS Cloud Practitioner CCP :white_check_mark:
-- Tools:
-    - Git
-    - Vim / Neovim / Lua / VSCode
-    - MongoDB / CouchDB / MySQL
-- Lang:
+- Tools & Technologies:
+    - [AWS-Cloud](https://github.com/karimkarimson/docker-revprox)
+    - [Terraform](https://github.com/karimkarimson/terraform)
+    - Kubernetes
+    - Docker / [Docker-Compose](https://github.com/karimkarimson/docker-revprox) / Docker-Swarm
+    - [Git](https://github.com/karimkarimson/ci_cd_test)
+    - Vim / Neovim / VSCode
+    - Redis / PostgreSQL / MongoDB / MariaDB / CouchDB / MySQL
+- Langs:
     - Python
     - Bash
-    - Rust
+    - Javascript & Frameworks
+    - Powershell
