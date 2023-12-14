@@ -33,7 +33,7 @@
 ### [Ansible Playground](https://github.com/karimkarimson/ansible)
 - As a huge fan of SSH and Terraform, Ansible is a great tool to have in my toolbelt. I'm beginning to get the hang of it and really enjoy it.
 
-### [Coding Challenges](https://github.com/karimkarimson/coding-challenges)
+### [Coding Practice](https://github.com/karimkarimson/coding-practice)
 - Coding challanges take my hacking to the next level and really teach me about how to think in code structures. There are much faster and versatile people out there, but I'm learning and that's what counts.
 
 ### [My Website](https://aouini.de)
